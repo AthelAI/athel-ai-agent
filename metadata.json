@@ -1,0 +1,8 @@
+
+{
+  "name": "Aether Assistant",
+  "description": "An AI personal assistant that ambiently scribes meetings, summarizes key points, provides action steps, drafts emails, creates lists, and helps manage your schedule. It runs locally in your browser, ensuring your data stays private.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
